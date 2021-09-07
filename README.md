@@ -1,8 +1,8 @@
-### Oiii galera 👋
+### Welcome galera 👋
 
 🔭 Developer | Engenheiro Civil
 
-🌱 I'm studying Java
+🌱 I'm studying Python and Java
 
 <div>
   <a href="https://github.com/winneralex">
